@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Digital%20System%20Design%20&%20Verification&fontSize=40)
 # 🛠 Technical Skills & Engineering Tools
 
 ## 🏗 Hardware & Software Languages
