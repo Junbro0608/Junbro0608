@@ -1,26 +1,34 @@
-# Hello my name is Jun_Hyoung_Lee
-🛠 Engineering Skills & Tools
-💻 Software & Hardware Languages
-Hardware Description Languages
-<img src="https://img.shields.io/badge/Verilog%20HDL-3F4F75?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/SystemVerilog-3F4F75?style=for-the-badge&logoColor=white" />
+# 🛠 Technical Skills & Engineering Tools
 
-Software Languages
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+## 🏗 Hardware & Software Languages
+### **Hardware Development**
+![](https://img.shields.io/badge/Verilog_HDL-3F4F75?style=flat-square&logo=cpu&logoColor=white) 
+![](https://img.shields.io/badge/SystemVerilog-3F4F75?style=flat-square&logo=intel&logoColor=white)
 
-🏗 FPGA Board Experience
-다양한 환경에서의 하드웨어 실습 및 프로토타이핑 경험이 있습니다.
+### **Software Development**
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Intel FPGA: DE-2 Board (Altera/Intel Cyclone series)
+---
 
-Digilent (AMD): Basys3 (Artix-7 FPGA)
+## 🔍 Simulation & EDA Tools
+| Vendor | Tools | Description |
+| :--- | :--- | :--- |
+| **Synopsys** | `VCS`, `Verdi` | RTL Simulation, Debugging & Waveform Analysis |
+| **AMD (Xilinx)** | `Vivado` | Synthesis, Implementation & Bitstream Generation |
+| **Intel (Altera)** | `ModelSim` | Functional Verification & RTL Simulation |
 
-📂 Project Structure (예시)
-프로젝트 저장소에 적용하실 경우, 아래와 같은 목차를 추가하면 더욱 좋습니다.
+---
 
-Design Specifications (설계 사양)
+## 📟 FPGA Hardware Platforms
+| Board | Manufacturer | FPGA Family |
+| :--- | :--- | :--- |
+| **DE-2** | Intel (Altera) | Cyclone Series |
+| **Basys3** | Digilent (AMD) | Artix-7 |
 
-Block Diagram (시스템 구조도)
+---
 
-Simulation Result (VCS/Verdi를 활용한 검증 결과 캡쳐)
-
-FPGA Implementation (보드 동작 영상 또는 사진)
+## 🚀 Key Experience
+* **Simulation:** Synopsys **VCS/Verdi**를 활용한 유닛 테스트 및 디버깅 경험
+* **FPGA Flow:** RTL 설계부터 **Vivado/ModelSim**을 거쳐 실제 보드(Basys3, DE-2) 타겟팅까지의 Full-Flow 숙지
+* **Verification:** SystemVerilog를 이용한 검증 환경 구축 및 테스트벤치 작성 가능
