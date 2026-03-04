@@ -1,12 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Digital%20System%20Design%20&%20Verification&fontSize=40)
-# 🛠 Technical Skills & Engineering Tools
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=3F4F75&height=250&section=header&text=Welcome%20JunHyung's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=40)
 
-## 🏗 Hardware & Software Languages
-### **Hardware Development**
+## 🛠 Technical Skills & Engineering Tools
+
+### 🏗 Hardware & Software Languages
+#### **Hardware Development**
 ![](https://img.shields.io/badge/Verilog_HDL-3F4F75?style=flat-square&logo=cpu&logoColor=white) 
 ![](https://img.shields.io/badge/SystemVerilog-3F4F75?style=flat-square&logo=intel&logoColor=white)
 
-### **Software Development**
+#### **Software Development**
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
