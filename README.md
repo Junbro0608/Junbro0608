@@ -1,11 +1,11 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=3F4F75&height=250&section=header&text=Welcome%20JunHyung's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=40)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=250&section=header&text=Welcome%20JunHyung's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 ## 🛠 Technical Skills & Engineering Tools
 
 ### 🏗 Hardware & Software Languages
 #### **Hardware Development**
-![](https://img.shields.io/badge/Verilog_HDL-3F4F75?style=flat-square&logo=cpu&logoColor=white) 
-![](https://img.shields.io/badge/SystemVerilog-3F4F75?style=flat-square&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/Verilog_HDL-6A0DAD?style=flat-square&logo=cpu&logoColor=white) 
+![](https://img.shields.io/badge/SystemVerilog-6A0DAD?style=flat-square&logo=intel&logoColor=white)
 
 #### **Software Development**
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
