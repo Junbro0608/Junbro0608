@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
+
 # 🛠 Technical Skills & Engineering Tools
 
 ## 🏗 Hardware & Software Languages
