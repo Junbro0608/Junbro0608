@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=250&section=header&text=Welcome%20JunHyung's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=40)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=250&section=header&text=Welcome%20JunHyoung's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 ## 🛠 Technical Skills & Engineering Tools
 
