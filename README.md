@@ -45,8 +45,9 @@
 ## GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junbro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Junbro's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junbro&layout=compact&theme=dracula" alt="Most Used Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Junbro&show_icons=true..." />
+
+<img src="https://github-readme-stats.vercel.app/api?username=lee-junhyoung&show_icons=true..." />
 </p>
 
 ---
