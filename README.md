@@ -45,9 +45,9 @@
 ## GitHub Statistics
 
 <p align="left">
-![Junbro0608's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Junbro0608&theme=dracula&hide_border=true)
+![junbro0608's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junbro0608&theme=dracula&hide_border=true)
 
-![Junbro0608's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Junbro0608&layout=compact&theme=dracula)
+![junbro0608's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junbro0608&layout=compact&theme=dracula)
 </p>
 
 ---
