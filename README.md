@@ -35,8 +35,7 @@
 
 ## Specialized Experience
 
-* **UVM Verification:** **UVM(Universal Verification Methodology)**
-** 기반의 검증 환경 구축 능력을 보유하고 있습니다. (Driver, Monitor, Scoreboard, Agent 구성 및 Virtual Sequence 작성)
+* **UVM Verification:** **UVM(Universal Verification Methodology)** 기반의 검증 환경 구축 능력을 보유하고 있습니다. (Driver, Monitor, Scoreboard, Agent 구성 및 Virtual Sequence 작성)
 * **Coverage-Driven Verification:** SystemVerilog Assertion(SVA) 및 Functional Coverage(Covergroup)를 활용한 검증 정합성 확보에 능숙합니다.
 * **Advanced Debugging:** Synopsys **VCS/Verdi** 환경에서 FSDB 덤프 분석 및 Transaction-level 디버깅 경험이 풍부합니다.
 * **FPGA Full-Flow:** RTL 설계부터 Timing Closure, 물리적 보드(Basys3, DE-2) 타겟팅까지의 전체 프로세스를 수행할 수 있습니다.
