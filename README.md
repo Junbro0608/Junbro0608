@@ -47,7 +47,7 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junbro0608&theme=dracula&hide_border=true" alt="GitHub Streak" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junbro0608&layout=compact&theme=dracula" alt="Most Used Languages" height="150" />
+  
 </p>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/junbro0608" alt="Gitanimals Farm"/>
