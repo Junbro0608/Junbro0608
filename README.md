@@ -60,10 +60,6 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junbro0608&theme=dracula" alt="Top Langs" />
   </a>
-  <br><br>
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/junbro0608" alt="Gitanimals Farm" width="600"/>
-  </a>
 </div>
 
 ---
