@@ -5,7 +5,7 @@
 **System Semiconductor Engineering | Hardware Design & UVM Verification**
 *Constantly exploring RISC-V Architecture, FPGA Flows, and Advanced Verification methodologies.*
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junbro0608&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 </div>
 
@@ -63,6 +63,7 @@
     <img src="https://render.gitanimals.org/farms/junbro0608" alt="Gitanimals Farm" width="600"/>
   </a>
 </div>
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junbro0608&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
