@@ -1,6 +1,9 @@
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=250&section=header&text=Welcome%20Junbro's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbro0608)(https://github.com/anuraghazra/github-readme-stats)
+
 ## Technical Skills & Engineering Tools
+
+<!-- 마크다운 괄호 닫기(]) 오류 수정 완료 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbro0608)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Design & Verification Languages
 #### Hardware Design & Verification
@@ -39,6 +42,22 @@
 * **Coverage-Driven Verification:** SystemVerilog Assertion(SVA) 및 Functional Coverage(Covergroup)를 활용한 검증 정합성 확보에 능숙합니다.
 * **Advanced Debugging:** Synopsys **VCS/Verdi** 환경에서 FSDB 덤프 분석 및 Transaction-level 디버깅 경험이 풍부합니다.
 * **FPGA Full-Flow:** RTL 설계부터 Timing Closure, 물리적 보드(Basys3, DE-2) 타겟팅까지의 전체 프로세스를 수행할 수 있습니다.
+
+---
+
+## Featured Projects
+
+* **RISC-V (RV32I) MCU System Design:** APB Bus Integration 및 핵심 프로세서 설계
+* **UVM Verification Environment:** APB RAM 및 UART Controller 검증 환경 구축 및 디버깅
+* **2024 Capstone Design:** YOLOv5를 활용한 시각장애인용 점자 인식 및 음성 출력 프로그램
+* **Retro Game Implementation:** Basys3 보드를 활용한 하드웨어 기반 게임(Tetris, Chrome Dino) 설계 및 VGA/UART 디스플레이 드라이버 구현
+
+---
+
+## Honors & Awards
+
+* **금상 (Gold Prize)** - 제 15 회 대한전기학회 산업전기응용부문회 대학생 작품 경진대회 (2024)
+* **우수상 (Excellence Award)** - CISC Career Day (2024)
 
 ---
 
