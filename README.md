@@ -1,11 +1,9 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=200&section=header&text=Welcome%20to%20Junbro's%20GitHub&fontSize=45&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=200&section=header&text=Welcome%20to%20Junbro's%20GitHub&fontSize=45&animation=fadeIn&fontAlignY=40)
 
 <div align="center">
 
 **System Semiconductor Engineering | Hardware Design & UVM Verification**
 *Constantly exploring RISC-V Architecture, FPGA Flows, and Advanced Verification methodologies.*
-
-
 
 </div>
 
@@ -59,12 +57,14 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junbro0608&theme=dracula&hide_border=true" alt="GitHub Streak" height="150" />
   <br><br>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junbro0608&theme=dracula" alt="Top Langs" />
+  </a>
+  <br><br>
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/junbro0608" alt="Gitanimals Farm" width="600"/>
   </a>
 </div>
-
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junbro0608&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
