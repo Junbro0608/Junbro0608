@@ -5,7 +5,7 @@
 **System Semiconductor Engineering | Hardware Design & UVM Verification**
 *Constantly exploring RISC-V Architecture, FPGA Flows, and Advanced Verification methodologies.*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbro0608&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junbro0608&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
