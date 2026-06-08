@@ -1,5 +1,5 @@
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=250&section=header&text=Welcome%20Junbro's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbro0608)](https://github.com/anuraghazra/github-readme-stats)
 ## Technical Skills & Engineering Tools
 
 ### Design & Verification Languages
